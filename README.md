@@ -13,8 +13,9 @@ The tracking system is based heavily on ***SORT***, which is realtime tracking a
 
 
 ## Usage
-
- ```$ git clone https://github.com/JardinRyu/Jetson_Nano_People_Counting
+1. Clone the following repository from github
+ ```
+ $ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
   
  
  
