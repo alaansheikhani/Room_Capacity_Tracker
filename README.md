@@ -2,6 +2,8 @@
 This repository is a code for an application used to detect and monitor a room capacity.
 
 ## Introduction
+The core of the application is **JetPack 4.5**, which is a software package for Jetson that includes CUDA, cuDNN, TensorRT, DeepStream, OpenCV and many other libraries. This helps building end-to-end accelerated AI solutions.
+
 The algorithm is based on a CUDA (or Compute Unified Device Architecture) impelmentation, which is a parallel computing platform and application programming interface (API) that allows software to use certain types of graphics processing unit (GPU) for general purpose processing.
 The tracking system is based heavily on ***SORT***, which is realtime tracking algorithm for 2D multiple object tracking in video sequences
 
