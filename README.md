@@ -12,17 +12,23 @@ The tracking system is based heavily on ***SORT***, which is realtime tracking a
 2. Pi camera v2 (but any other camera compatible with the jetson Nano would also work fine)
 
 
-## Usage
+## Downloading
 1. Clone the following repository from github
  ```
  $ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
-  
- 
- 
- 
+ $ cd Room_Capacity_Tracker/
  ```
+2. Download Dependencies
+```
+./installation.sh
+./Dependencies_2.sh
+./Dependencies_3.sh
 
-
+```
+## Employment
+```
+python3 Pi_Camera.py
+```
 
 ## Refrences 
 - [Jetson_Nano_People_Counting](https://github.com/JardinRyu/Jetson_Nano_People_Counting)
