@@ -15,8 +15,8 @@ The tracking system is based heavily on ***SORT***, which is realtime tracking a
 ## Downloading
 1. Clone the following repository from github
  ```
- $ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
- $ cd Room_Capacity_Tracker
+ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
+ cd Room_Capacity_Tracker
  ```
 2. Download Dependencies
 ```
