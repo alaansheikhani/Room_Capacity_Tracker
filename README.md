@@ -16,11 +16,11 @@ The tracking system is based heavily on ***SORT***, which is realtime tracking a
 1. Clone the following repository from github
  ```
  $ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
- $ cd Room_Capacity_Tracker/
+ $ cd Room_Capacity_Tracker
  ```
 2. Download Dependencies
 ```
-./installation.sh
+./Installation.sh
 ./Dependencies_2.sh
 ./Dependencies_3.sh
 
