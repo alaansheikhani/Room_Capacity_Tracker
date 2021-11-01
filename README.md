@@ -8,7 +8,7 @@ The algorithm is based on a CUDA (or Compute Unified Device Architecture) impelm
 The tracking system is based heavily on ***SORT***, which is realtime tracking algorithm for 2D multiple object tracking in video sequences
 
 ## Hardware Requirements
-1. Jetson nano 4g b01
+1. NVIDIA® Jetson Nano™ Developer Kit 
 2. Pi camera v2 (but any other camera compatible with the jetson Nano would also work fine)
 
 
