@@ -15,19 +15,19 @@ The tracking system is based heavily on ***SORT***, which is realtime tracking a
 ## Downloading
 1. Clone the following repository from github
  ```
- git clone https://github.com/JardinRyu/Room_Capacity_Tracker
- cd Room_Capacity_Tracker
+ $ git clone https://github.com/JardinRyu/Room_Capacity_Tracker
+ $ cd Room_Capacity_Tracker
  ```
 2. Download Dependencies
 ```
-./Installation.sh
-./Dependencies_2.sh
-./Dependencies_3.sh
+$ ./Installation.sh
+$ ./Dependencies_2.sh
+$ ./Dependencies_3.sh
 
 ```
 ## Employment
 ```
-python3 Pi_Camera.py
+$ python3 Pi_Camera.py
 ```
 
 ## Refrences 
